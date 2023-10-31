@@ -2,7 +2,7 @@ const fs = require("node:fs/promises");
 const path = require("node:path");
 const crypto = require("node:crypto");
 
-const contactsPath = path.resolve("./db/contacts.json");
+const contactsPath = path.join("./db/contacts.json");
 
 async function listContacts() {
     try {
