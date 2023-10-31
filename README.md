@@ -1,4 +1,4 @@
-# CLI-Application
+# CLI-Application.
  
 1. Contacts list: https://ibb.co/zZVYKPr
 2. Add contat: https://ibb.co/LRdh5Mx
